@@ -1,0 +1,8 @@
+{
+  "presets": [
+    // ["env", { "modules": false }]
+     ["env", { "modules": false }]
+  ],
+  // mapActions报错解决办法
+   "plugins": ["transform-object-rest-spread"]
+}
